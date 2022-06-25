@@ -1,1 +1,2 @@
-# A Simple Word Typing Game                                                                                                                                               Tech uses: React js, Css
+    Word Race Typing Assignment                                                                                                                                          
+    Tech Uses: React js , Css
